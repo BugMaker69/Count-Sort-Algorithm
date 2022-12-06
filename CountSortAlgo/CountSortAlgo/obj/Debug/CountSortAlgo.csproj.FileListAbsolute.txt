@@ -1,0 +1,11 @@
+C:\Users\grobe\source\repos\CountSortAlgo\CountSortAlgo\obj\Debug\CountSortAlgo.csproj.AssemblyReference.cache
+C:\Users\grobe\source\repos\CountSortAlgo\CountSortAlgo\obj\Debug\CountSortAlgo.csproj.SuggestedBindingRedirects.cache
+C:\Users\grobe\source\repos\CountSortAlgo\CountSortAlgo\obj\Debug\CountSortAlgo.Properties.Resources.resources
+C:\Users\grobe\source\repos\CountSortAlgo\CountSortAlgo\obj\Debug\CountSortAlgo.csproj.GenerateResource.cache
+C:\Users\grobe\source\repos\CountSortAlgo\CountSortAlgo\obj\Debug\CountSortAlgo.csproj.CoreCompileInputs.cache
+C:\Users\grobe\source\repos\CountSortAlgo\CountSortAlgo\bin\Debug\CountSortAlgo.exe.config
+C:\Users\grobe\source\repos\CountSortAlgo\CountSortAlgo\bin\Debug\CountSortAlgo.exe
+C:\Users\grobe\source\repos\CountSortAlgo\CountSortAlgo\bin\Debug\CountSortAlgo.pdb
+C:\Users\grobe\source\repos\CountSortAlgo\CountSortAlgo\obj\Debug\CountSortAlgo.CountAlg.resources
+C:\Users\grobe\source\repos\CountSortAlgo\CountSortAlgo\obj\Debug\CountSortAlgo.exe
+C:\Users\grobe\source\repos\CountSortAlgo\CountSortAlgo\obj\Debug\CountSortAlgo.pdb
